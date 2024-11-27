@@ -34,4 +34,4 @@
 ---
 # References
 
-[Replace Text-in-brackets Here for List of References]
+[Replace Text Here for List of References]
