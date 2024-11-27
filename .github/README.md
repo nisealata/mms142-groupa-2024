@@ -20,7 +20,7 @@
 
 ### *Foreign Physical Retail Industry*
 
-[Replace Text Here for Body Segment A1 Content]
+[Replace Text Here for Body Segment B1 Content]
 
 ### *Local/Domestic Physical Retail Industry*
 
