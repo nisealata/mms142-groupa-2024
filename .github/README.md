@@ -28,7 +28,7 @@
 
 ## Conclusion
 
-[Replace Text Here for Body Segment B2 Content]
+[Replace Text Here for Overall Conclusion Content]
 
 
 ---
