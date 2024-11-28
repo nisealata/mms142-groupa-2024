@@ -18,7 +18,9 @@ As the main topic to discuss in this report, e-commerce growth did not occur ent
 
 ### *The Consumer Experience with Physical Retail Shopping*
 
-[Replace Text Here for Body Segment A2 Content]
+There are struggles when dealing with being a consumer in physical retail stores. Since online shopping is competitive, convenience must be prioritized. With wider options to buy from, low prices, and other delivery options, physical retailing could be hard to compete with online retail stores. On the downside of inventory management problems, physical stores have more limitations than online stores. Overstocking and understocking are handled wisely in physical stores more than when dealing with online retail sellers (Rodgers, 2024).
+
+Given in physical retail stores, rent when available, utilities and staff salaries are ones to be considered at first. If these aspects were taken for granted, the system of physical retailing may fail the minor ones to be considered and decided. The profitability of the goods being sold should be considered as well to maintain the balance in sales. Other than that, the decline in using digital platforms hinders the whole growth of running a physical retail business. If there are tools used for facilities that must be upgraded, guidelines must be followed in the procedure if possible. Moreover, consumers’ preferences are monitored to tailor the needs of a physical retail store (Rodgers, 2024).
 
 ## Existing Market Disruption
 
