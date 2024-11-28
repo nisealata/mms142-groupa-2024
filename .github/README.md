@@ -31,6 +31,7 @@ Given in physical retail stores, rent when available, utilities and staff salari
 The global state of physical retail is marked by dynamic change - its sphere constantly being shaped and affected by several factors including the economic state and consumer behavior. One of the biggest manifestations of this dynamism is the apparent decline of physical stores in the previous decade, captured in the phenomenon described as a “retail apocalypse” (Chun et al., 2023). Several reports detail the extent of this transformation. In the United States, Peterson (2019) reported a staggering number of 9,300 stores closing, while Hartmans (2021) estimates a number of 80,000 retail stores and 25% of malls to close by 2026. Major, iconic retailers like Toys “R” Us, Forever 21, and Sears have all filed bankruptcies within the previous decade (Here’s a List of 154 Bankruptcies in the Retail Apocalypse – and Why They Failed, 2023). Abandoned, dilapidated closed-down stores have been garnering attention, putting into perspective the demise of these once bustling spaces (Lakritz, 2020).
 
 An abandoned Sears (Melissamn, 2018) https://i.insider.com/5e2782a13ac0c91c0859a34c?width=600&format=jpeg&auto=webp
+
 Closed Toys R Us in Orlando, Florida (Hennessy, 2019) https://i.insider.com/5e2782a13ac0c91c0859a34f?width=700&format=jpeg&auto=webp
 
 The underlying reason for the retail apocalypse is manifold, but certainly isn’t a mystery. One of the biggest factors that this phenomenon is attributed to is the unparalleled growth of e-commerce in the previous decades, anchored to the growing capabilities of information technology ushered by the digital age (Chun et al., 2023). Additional reasons contributing to physical retail’s decline are the extent of debt of chain retailers, and internal management missteps (Sandler & Kim, 2019).
@@ -45,10 +46,10 @@ With this, situating Shopee within the context where it has thrived can give ins
 
 Shopee’s effect can also be contextualized within the countries whose physical retail industry has been disrupted.
 
-**Indonesia**
+**Indonesia.**
 The Ministry of Trade of the Republic of Indonesia (2023) have emphasized the transformative aspect of e-commerce, primarily Shopee, in the country’s retail industry, noting an increasing preference to it over physical stores, projecting by 2027 a number of 21.8% of sales from e-commerce. This development is also once again attributed to the increasing digital accessibility through Internet penetration in the country’s population. Nurhayati-Wolff (2024) predicts 134 million e-commerce users by 2029, with revenues to cross $100B by 2027. Furthermore, the disruption ushered by e-commerce was dated as early as the mid-2000s, presenting challenges to traditional businesses (Ministry of Trade of the Republic of Indonesia, 2023).
 
-**Malaysia**
+**Malaysia.**
 Shopee has also established itself as a dominant retail force in Malaysia. Though not to the same extent that Indonesia harbored, Shopee has still made waves in transforming the retail industry of Malaysia, boasting a 48% increase in the e-commerce market value (Siddharta, 2024). Regarding consumer preferences, 73% of Malaysians responded positively towards buying on e-commerce platforms after the pandemic, having grown more than two-fold, putting into perspective its role in facilitating the disruption (Standard Chartered, 2020, as cited in Jaafar, 2020).
 
 Other countries under the scope of Shopee’s expansion have also experienced its disruptive potential. In Vietnam, platforms like Shopee lead the quickly burgeoning e-commerce market (Nguyen, 2024).
