@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The shopping landscape has completely changed over the last few years; gone are the times when people will look for something in-store as a first attempt. E-commerce has reshaped how consumers shop, with platforms like Shopee leading the charge in Southeast Asia. As a digital marketplace, Shopee enables users to browse and purchase products seamlessly through their devices, revolutionizing accessibility and convenience. In contrast, traditional retail stores rely heavily on physical presence and customer foot traffic, which limits their reach and flexibility.
+The shopping landscape has completely changed over the last few years, gone are the times when people will look for something in-store as a first attempt. E-commerce has reshaped how consumers shop, with platforms like Shopee leading the charge in Southeast Asia. As a digital marketplace, Shopee enables users to browse and purchase products seamlessly through their devices, revolutionizing accessibility and convenience. In contrast, traditional retail stores rely heavily on physical presence and customer foot traffic, which limits their reach and flexibility.
 
 The global retail landscape has seen significant shifts with the emergence of platforms like Shopee. E-commerce sales in the Philippines alone have reached remarkable highs in recent years, accounting for a significant share of the economy (Statista, 2024). Shopee's success can be attributed to its user-friendly app, integrated payment solutions, and gamified shopping experiences, distinguishing it from brick-and-mortar establishments (Business Insider, 2020; Google et al., 2024).
 
