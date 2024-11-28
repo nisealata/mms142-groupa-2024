@@ -3,9 +3,6 @@
 ## Description: 
 A brief overview of what the project is about.
 
-## Installation Instructions: 
-Steps to install or run the project (if applicable).
-
 ## Usage: 
 How to use the project, examples, or commands.
 
