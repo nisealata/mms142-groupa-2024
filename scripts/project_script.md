@@ -42,6 +42,8 @@ Closed Toys R Us in Orlando, Florida (Hennessy, 2019) https://i.insider.com/5e27
 
 The underlying reason for the retail apocalypse is manifold, but certainly isn’t a mystery. One of the biggest factors that this phenomenon is attributed to is the unparalleled growth of e-commerce in the previous decades, anchored to the growing capabilities of information technology ushered by the digital age (Chun et al., 2023). Additional reasons contributing to physical retail’s decline are the extent of debt of chain retailers, and internal management missteps (Sandler & Kim, 2019).
 
+**Shopee's Disruption of Global Physical Retail**
+
 Understanding Shopee as a disruptive technology involves a fundamental examination at (1) what makes an innovation disruptive, and (2) the general disruptive attributes of e-commerce.
 
 E-commerce can be best envisioned as a disruptive technology when contextualized through its rudiments, and how it fits the criteria. Disruption entails the process of a newer, smaller innovation, referred to as the “entrants,” as they compete with leading, established companies, known as the “incumbents” (Christensen, 2014). The entrants are able to do so by virtue of concentration on an overlooked unprofitable audience by incumbents (low-end) or through offering convenience and lower costs, consequently enabling a new demographic of consumers (new-market) (Christensen et al., 2015). Furthermore, these are described to transform consumers by steering them away from the mainstream option, into the new one, due to these incentives (Christensen, 2014).
@@ -49,6 +51,8 @@ E-commerce can be best envisioned as a disruptive technology when contextualized
 The meteoric rise of e-commerce closely follows this paradigm. Boasting benefits such as convenience, lower costs, and a wider variety of products, it has attracted traditional, physical store customers. On the other hand, cheaper capital and potential for a wider customer base has attracted businesses alike. Its transformative effect is manifested in changing consumer behaviors.
 
 With this, situating Shopee within the context where it has thrived can give insight to its disruptive effects. Southeast Asia, Shopee’s main geographic scope where it has been observed to have established itself, has a distinguished demographic that is palpably ripe for disruption. This is due to a growing Internet penetration rate, developing middle socioeconomic class, and increasingly accessible information and communication technologies (Affifa, 2024). The COVID-19 pandemic has also worked in Shopee’s favor, facilitating this disruption due to a lack of other options, introducing the technology to an even bigger demographic. Affifa (2024) reported a pattern of consumers in Southeast Asia that prefer e-commerce due to a variety of reasons including convenience, wider array of products, lower costs, and functionalities that allow people to see reviews from fellow buyers.
+
+**Country-Specific Retail Environments**
 
 Shopee’s effect can also be contextualized within the countries whose physical retail industry has been disrupted.
 
