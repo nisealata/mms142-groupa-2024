@@ -2,7 +2,13 @@
 
 ## Introduction
 
-[Replace Text Here for 1st Part of Introduction Content]
+The shopping landscape has completely changed over the last few years; gone are the times when people will look for something in-store as a first attempt. E-commerce has reshaped how consumers shop, with platforms like Shopee leading the charge in Southeast Asia. As a digital marketplace, Shopee enables users to browse and purchase products seamlessly through their devices, revolutionizing accessibility and convenience. In contrast, traditional retail stores rely heavily on physical presence and customer foot traffic, which limits their reach and flexibility.
+
+The global retail landscape has seen significant shifts with the emergence of platforms like Shopee. E-commerce sales in the Philippines alone have reached remarkable highs in recent years, accounting for a significant share of the economy (Statista, 2024). Shopee's success can be attributed to its user-friendly app, integrated payment solutions, and gamified shopping experiences, distinguishing it from brick-and-mortar establishments (Business Insider, 2020; Google et al., 2024).
+
+While traditional retailers rely on physical spaces to provide a sensory shopping experience, Shopee offers unparalleled convenience, cost-effectiveness, and scalability (Digimid, n.d.). This dynamic juxtaposition of physical and online retail underscores Shopee's transformative impact in redefining how consumers interact with markets.
+
+By bridging the gap between digital convenience and retail essentials, Shopee has not only introduced a new paradigm for shopping but has also catalyzed shifts in consumer behavior that challenge the relevance of traditional walk-in establishments (Business Insider, 2020).
 
 Discussing more about the foundational background of this rapidly rising, Singapore-based e-commerce platform, Shopee launched in 2015 to 7 distinct countries across Southeast Asia (Shopee, n.d.). This initial coverage spanned Singapore, Malaysia, Indonesia, Thailand, Taiwan, Vietnam, and the Philippines; but has since reached East Asian countries such as, China, South Korea, and Japan; as well as far more international locations such as, Brazil, and Mexico (Shopee, n.d.).
 
