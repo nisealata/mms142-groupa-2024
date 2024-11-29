@@ -26,9 +26,16 @@ As the main topic to discuss in this report, e-commerce growth did not occur ent
 
 There are struggles when dealing with being a consumer in physical retail stores. Since online shopping is competitive, convenience must be prioritized. With wider options to buy from, low prices, and other delivery options, physical retailing could be hard to compete with online retail stores. On the downside of inventory management problems, physical stores have more limitations than online stores. Overstocking and understocking are handled wisely in physical stores more than when dealing with online retail sellers (Rodgers, 2024). Otherwise, customers would have negative experience in looking for available stocks when buying walk-in.
 
+
 Given in physical retail stores, rent when available, utilities and staff salaries are ones to be considered at first. If these aspects were taken for granted, the system of physical retailing may fail the minor ones to be considered and decided. The profitability of the goods being sold should also be considered to maintain the balance in sales. Other than that, the decline in the use of digital platforms hinders the growth of a physical retail business. If tools are used for facilities that must be upgraded, guidelines must be followed in the procedure if possible. Buyers would also benefit from upgrading the equipment. Moreover, consumers’ preferences are monitored to tailor the needs of a physical retail store (Rodgers, 2024).
 
 Additionally, the feature of picking up goods bought beforehand is one of the convenience given by physical retailing or walk-ins. BOPIS, also known as buying online and picking up in-store, is known to be convenient for consumers aside from buying online and delivery. Physical stores are also used as a supply on which stocks are placed for online shopping. More than that, other consumers have preferences to buy walk-in rather than online shopping (LS Retail, 2024).
+
+To further note, due to the 2020 COVID-19 pandemic, the physical retail shopping experience has changed drastically. The retail market and customers had to abruptly adjust to new mandated rules that needed to be followed for survival. Most stores were forced to close and evolve their business, such as finding ways to provide the physical store experience to consumers online. In the United States alone, due to the rise of e-commerce, 17 percent of consumers started to shift away from their usual
+ physical stores (Briedis, et al., 2020). Despite the rise of online shopping from the pandemic, there are still consumers that have motivation to opt for the experience of physical retail shopping over online shopping. This is because physically shopping in the store provides the shopping experience the consumer cannot have online such as shopping process and the physical retail shopping atmosphere to name a few (Alexander & Alvarado 2014).
+
+
+
 
 ## Existing Market Disruption
 
