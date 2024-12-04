@@ -120,17 +120,15 @@ h7 {font-size: 3.0rem; line-height: 1.3;  letter-spacing: -.1rem; }
 
 h1 {
   font-family: "Neue Montreal Bold", sans-serif;
-  align-items: center;
-  justify-content: center;
   color: #EC4C2D;
+  text-align: center;
 }
 
 h7 {
   font-family: Times New Roman, serif; 
   font-style: italic;
-  align-items: center;
-  justify-content: center;
   color: #EC4C2D;
+  text-align: center;
 }
 
 /**
