@@ -215,20 +215,27 @@ ul.main-menu {
   justify-content: left;
   list-style: none;
 }
+
 ul.main-menu li a {
-  margin-right:20px;
-  font-size:2.0rem;
-  margin-right:15px;
-  font-size:1.6rem;
+  margin-right: 20px;
+  font-size: 1.5rem;
+  margin-right: 15px;
+  font-size: 1.6rem;
   border-bottom: solid transparent 3px;
   color:#EC4C2D;
+  transition: all 0.3s ease;
 }
+
 ul.main-menu li a:hover {
   color:#EC4C2D;
 }
+
 ul.main-menu li a.active {
-  color:#EC4C2D;
-  border-bottom-color:#EF6D3D;
+  color: #fff;
+  border-bottom-color: 3px solid #EF6D3D;
+  border-radius: 10px;
+  background-color: #EF6D3D;
+  padding: 5px 10px;
 }
 
 /* Utility classes */
