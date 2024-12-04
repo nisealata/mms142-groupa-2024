@@ -235,8 +235,6 @@ ul.main-menu li a.active {
   border-bottom-color: 3px solid #EC4C2D;
   border-radius: 10px;
   background-color: #EC4C2D;
-  padding: 2px 10px;
-  margin-bottom: 5px
 }
 
 /* Utility classes */
