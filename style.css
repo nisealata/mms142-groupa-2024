@@ -29,11 +29,25 @@ a:focus {
 small {
   font-size: 75%;
 }
+
+
+
+
+#HeaderIMG {
+  width: 100px;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+} 
 #logo {
-    width: 100px;
+    width: 200px;
     height: auto;
+    justify-content: center;
     align-items: center;
   }
+
+
+
 
 /**
  * Headings
