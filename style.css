@@ -137,9 +137,10 @@ h7 {
   font-weight: bold;
   color: #EC4C2D;
   text-align: center;
+  display: block;
+  margin: 0 auto;
   margin-top: -15px;
   margin-bottom: 20px;
-  width: 100%;
 }
 
 h2 {
