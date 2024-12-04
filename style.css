@@ -78,6 +78,22 @@ p + p {
 
 
 
+/* Images */
+#image01 {
+  align-items: center;
+  width: 200em;
+  height: auto;
+}
+
+#image02 {
+  align-items: center;
+  width: 200em;
+  height: auto;
+}
+
+
+
+
 /* Quotes & Blockquotes */
 q {
   quotes: '\00201C' '\00201D';
