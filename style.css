@@ -29,6 +29,10 @@ a:focus {
 small {
   font-size: 75%;
 }
+#logo {
+    width: 200px;
+    height: auto;
+  }
 
 /**
  * Headings
