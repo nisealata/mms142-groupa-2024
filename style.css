@@ -115,6 +115,7 @@ h5 { font-size: 1.4rem; line-height: 1.6;  letter-spacing: 0; }
 h6 { font-size: 1.3rem; line-height: 1.6;  letter-spacing: 0; }
 
 h1 {
+  font-family: "Neue Montreal Bold", sans-serif;
   align-items: center;
   justify-content: center;
   color: #EC4C2D;
@@ -122,6 +123,7 @@ h1 {
 
 h7 {
   font-family: Times New Roman, serif; 
+  font-style: italic;
   align-items: center;
   justify-content: center;
   color: #EC4C2D;
