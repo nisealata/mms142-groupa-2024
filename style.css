@@ -207,6 +207,7 @@ header, #content {
   padding:20px;
   color:#373737;
   box-shadow: 15px 15px 50px rgba(0,0,0,0.5);
+  border-radius: 15px;
 }
 
 /* Menu Links */
