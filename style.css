@@ -122,11 +122,25 @@ blockquote p:last-child {
 
 
 /* Full size background image */
-html, #container, .inner { background-color:transparent;}
-html {
-  background:url('https://raw.githubusercontent.com/nisealata/mms142-groupa-2024/main/background.png') center center no-repeat fixed;
-  background-size:cover;
+html, body {
+  margin: 0;
+  height: 100%;
+  background-color: transparent;
 }
+html {
+  background-image: url('https://raw.githubusercontent.com/nisealata/mms142-groupa-2024/main/background.png');
+  background-position: center;
+  background-repeat: no repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#container, .inner {
+  background-color: transparent;
+}
+
+
+
+
 body {
   max-width:800px;
   margin:25px auto;
