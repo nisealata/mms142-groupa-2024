@@ -1,6 +1,7 @@
-/**
- * Typography & Text styles
- */
+/* Typography & Text styles */
+
+
+
 
 /* html is set to 62.5% so that all the REM measurements are based on 10px sizing. So basically 1.5rem = 15px */
 html {
@@ -18,9 +19,10 @@ html, #header {
   color: #EC4C2D;
 }
 
-/**
- * Links
- */
+
+
+
+/* Links */
 a {
   font-weight: normal;
   text-decoration: none; 
@@ -38,9 +40,11 @@ small {
   width: 200px;
   height: auto;
 
-/**
- * Headings
- */
+
+
+
+
+/* Headings */
 h1,
 h2,
 h3,
@@ -60,9 +64,10 @@ h4 { font-size: 1.6rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h5 { font-size: 1.4rem; line-height: 1.6;  letter-spacing: 0; }
 h6 { font-size: 1.3rem; line-height: 1.6;  letter-spacing: 0; }
 
-/**
- * Paragraphs
- */
+
+
+
+/* Paragraphs */
 p {
   margin: 0 auto 1.0em auto; /* bottom margin for paragraphs */
 }
@@ -70,9 +75,10 @@ p + p {
 
 }
 
-/**
- * Quotes & Blockquotes
- */
+
+
+
+/* Quotes & Blockquotes */
 q {
   quotes: '\00201C' '\00201D';
 }
@@ -94,9 +100,10 @@ blockquote p:last-child {
   margin-bottom: 0;  
 }
 
-/**
- * Layout styles
- */
+/* Layout styles */
+
+
+
 
 /* Full size background image */
 html, #container, .inner { background-color:transparent;}
@@ -113,6 +120,10 @@ header, #content, footer {
   padding:20px;
   color:#FFFFFF; 
 }  
+
+
+
+
 /* Menu Links */
 ul.main-menu {
   margin: 0;
@@ -135,6 +146,9 @@ ul.main-menu li a.active {
   color:#FFFFFF;
   border-bottom-color:#EF6D3D;
 }
+
+
+
 
 /* Utility classes */
 .hide {
