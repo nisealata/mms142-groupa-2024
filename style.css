@@ -64,8 +64,8 @@ small {
 #logo {
     width: 200px;
     height: auto;
-    justify-content: center;
-    align-items: center;
+    display: block;
+    margin: 0 auto;
   }
 .image-container {
   display: flex;
