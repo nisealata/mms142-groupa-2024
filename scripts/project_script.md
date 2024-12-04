@@ -21,11 +21,11 @@ As the main topic to discuss in this report, e-commerce growth did not occur ent
 ### *The Consumer Experience with Shopee*
 
 In the ever-evolving landscape of e-commerce, online shopping platforms such as Shopee revolutionized the way we shop. Shopee remarkably claims and offers convenience, accessibility, and security via robust payment and customer service support which greatly influenced the rapidly evolving and increasing popularity among global e-consumers especially the Generation Z’s consumer behaviour (Sheridan, 2024). Based on the research of Khaw et. al (2023), Shopee has achieved the e-consumer's expectations that is evidently exhibited with how this platform has essentially come to be known to be the most visited emerging online shopping site in South Asia.
-With the rise of this global e-commerce, customer satisfaction is still a crucial aspect of business that contributes to the success of companies (Lim et al., 2021; Yo et al., 2021).  Amidst the popularity of Shopee nowadays, e-consumers also experience various issues on online shopping. Along with being skeptical of purchasing items without having physical proof, and interaction with the seller, the most common problem of e-consumers is receiving the wrong product. Ung (2024), highlighted and enumerated various issues significantly related to the main challenges revealed by e-consumers in shopping on Shopee; (1) mismatched expectations (2) communications hurdles and lack of empathy, (3) complicated processes and lack of adaptability, (4) logistical challenges and (4) costumer service conundrum.
+With the rise of this global e-commerce, customer satisfaction is still a crucial aspect of business that contributes to the success of companies.  Amidst the popularity of Shopee nowadays, e-consumers also experience various issues on online shopping. Along with being skeptical of purchasing items without having physical proof, and interaction with the seller, the most common problem of e-consumers is receiving the wrong product. Ung (2024), highlighted and enumerated various issues significantly related to the main challenges revealed by e-consumers in shopping on Shopee; (1) mismatched expectations (2) communications hurdles and lack of empathy, (3) complicated processes and lack of adaptability, (4) logistical challenges and (4) costumer service conundrum.
 
 "Your most unhappy customers are your greatest source of learning." Bill Gates as quoted by Ung (2024) in his article when he highlighted how Shopee became attentive to such challenges and improved their services accordingly, tailoring to their consumer needs. Identifying possible and existing challenges is the best way to be able to create a successful marketing strategy. Sheridan (2024), given all the skepticals and challenges faced by Shopee she mentioned on her article ‘Shopee Marketing Strategy 2024’ the possible solutions to the various needs and essentials that will satisfy the growing e-consumers. As observed, Shopee prioritize increasing brand visibility and attracting a large user base establishing a sense of trust and credibility among their consumers. Undeniably, Shopee successfully connects with their customers and creates a thriving online community that prioritize customer satisfaction and engagement. Furthermore, the combination of service quality, attractive promotions and free shipping provides a significant success and growth of Shopee in achieving the evolving needs of e-consumers. 
 
-Accordingly, both Khaw, J et. al. (2023) and Kee, D. M.H. et. al. (2023) emphasized the behaviour of Shopee’s e-consumers which significantly reflected from customer’s experience and satisfaction which is essentially exhibited in the above research : (1) perceived usefulness and convenience towards the ease of use of Shopee e-commerce platform, (2) perceived benefits and price considering affordability, price conformance with product quality, price compliance with advantages, and price according to ability or purchasing power, and (3) perceived security, privacy and trust which is the most essential key in delivering client satisfaction as this is significantly related to personal and financial information.
+Accordingly, both Khaw, J et. al. (2023) and Mui, D. et. al. (2023) emphasized the behaviour of Shopee’s e-consumers which significantly reflected from customer’s experience and satisfaction which is essentially exhibited in the above research : (1) perceived usefulness and convenience towards the ease of use of Shopee e-commerce platform, (2) perceived benefits and price considering affordability, price conformance with product quality, price compliance with advantages, and price according to ability or purchasing power, and (3) perceived security, privacy and trust which is the most essential key in delivering client satisfaction as this is significantly related to personal and financial information.
 
 Sheridan (2024), Shopee’s total marketing investment nearly doubled in 2023 compared to the previous year, indicating significant growth and a commitment to expanding their global consumers while tapping a massive market of Generation Z’s consumers. Though consumers’ expectations are apparently becoming complex and demanding, Shopee transactions are remarkably increasing which significantly implies positive consumer behaviour towards Shopee e-commerce platform. 
 
@@ -135,6 +135,8 @@ Chun, H., Joo, H. H., Kang, J., & Lee, Y. (2023). E-commerce and local labor mar
 ‌Dean, E. (2024, September 19). History of Shopee: Singapore’s Well-Funded Ecommere Giant (2015-2024). Business2Community. 
 https://www.business2community.com/statistics-pages/history-of-shopee-rapid-growth-and-ecommerce-dominance
 
+Digimid. (n.d.). The rise of e-commerce and its effects on traditional retail. Retrieved from https://www.digimid.com
+
 Group, T. (2024, July 4). 10 Largest Online Marketplaces in Southeast Asia (2024). TMO Group. https://www.tmogroup.asia/insights/must-know-southeast-asia-online-marketplaces/
 
 Hartmans, A. (2021, April 6). Roughly 80,000 stores are doomed to close in the next 5 years as the retail apocalypse continues to rip through America. Business Insider. https://www.businessinsider.com/retail-apocalypse-means-80000-store-closures-next-5-years-2021-4
@@ -147,7 +149,7 @@ Jaafar, S. S. (2020, September 15). Over two-thirds of Malaysians now more comfo
 
 Justine Irish, T. D. (2024, September 8). Retail outlook still bright despite high vacancies, inroads by e-commerce. BusinessWorld Online. https://www.bworldonline.com/special-reports/2024/09/09/619438/retail-outlook-still-bright-despite-high-vacancies-inroads-by-e-commerce/ 
 
-Khaw Jaylene. (2023, January 20). Shopee: How Does E-commerce Affect E-consumer Perception And Satisfaction? ResearchGate; AIBPM Publisher. https://www.researchgate.net/publication/368773335_Shopee_How_Does_E-commerce_Affect_E-consumer_Perception_And_Satisfaction
+Khaw, J. (2023, January 20). Shopee: How Does E-commerce Affect E-consumer Perception And Satisfaction? ResearchGate; AIBPM Publisher. https://www.researchgate.net/publication/368773335_Shopee_How_Does_E-commerce_Affect_E-consumer_Perception_And_Satisfaction
 
 Lakritz, T. (2020, January 22). 17 eerie photos of abandoned stores that have shuttered in the retail apocalypse. Business Insider. https://www.businessinsider.com/abandoned-empty-stores-retail-apocalypse-photos
 
@@ -176,6 +178,8 @@ Rodgers, D. (2024) Struggling Retail Stores: Overcoming Common Challenges with S
 Sandler, B. J., & Kim, J. J. (2019). Navigating the Retail Apocalypse. New York Law Journal. Retrieved November 28, 2024, from https://www.pszjlaw.com/media/publication/559_NYLJ09252019417218Pachulski.pdf
 
 Sheridan, N. (2024, June 26). Shopee Marketing Strategy 2024: A Case Study – Latterly.org. Latterly.org. https://www.latterly.org/shopee-marketing-strategy/
+
+Shopee. (n.d.). Shopee is the leading e-commerce platform in Southeast Asia and Taiwan. https://careers.shopee.sg/about
 
 Siddharta, A. (2024, April 19). Retail trade in Malaysia. Statista. https://www.statista.com/topics/12230/retail-trade-in-malaysia/
 
