@@ -107,8 +107,7 @@ body {
 header, #content, footer { 
   background: rgba(0,0,0,.8); 
   padding:20px;
-  font-family: "Neue Montreal";
-  color:#EC4C2D; 
+  color:#FFFFFF; 
 }  
 /* Menu Links */
 ul.main-menu {
