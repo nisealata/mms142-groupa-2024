@@ -9,19 +9,19 @@ html {
 
 @font-face {
   font-family: "Montserrat";
-  src: url(font/Montserrat-VariableFont_wght.ttf);
+  src: url('https://raw.githubusercontent.com/nisealata/mms142-groupa-2024/main/font/Montserrat-VariableFont_wght.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Neue Montreal Bold";
-  src: url(font/NeueMontreal-Bold.otf);
+  src: url('https://raw.githubusercontent.com/nisealata/mms142-groupa-2024/main/font/NeueMontreal-Bold.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Neue Montreal Italic";
-  src: url(font/NeueMontreal-Italic.otf);
+  src: url('https://raw.githubusercontent.com/nisealata/mms142-groupa-2024/main/font/NeueMontreal-Italic.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
