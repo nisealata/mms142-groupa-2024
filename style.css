@@ -198,8 +198,8 @@ html {
   background-size:cover;
 }
 body {
-  max-width:800px;
-  margin:25px auto;
+  max-width:800%;
+  margin:35px auto;
 }
 header, #content { 
   background: #F8F4EB; 
