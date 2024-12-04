@@ -109,4 +109,40 @@ The information observed emphasizes a critical point: while e-commerce continues
 ---
 # References
 
-[Replace Text Here for List of References]
+‌
+Affifa. (2024, September 6). Shopee Market Insights: An in-depth market analysis, growth, and competition. Cube Asia. https://cube.asia/shopee-market-insights-an-in-depth-market-analysis-growth-and-competition/
+Alexander,B. & Alvarado, D.O. (2014)Blurring of the channel boundaries: The impact of advanced technologies in the physical fashion store on consumer experience. https://ualresearchonline.arts.ac.uk/id/eprint/9569/1/Blurring%20of%20the%20channel%20boundaries%20The%20impact%20of%20advanced%20technologies%20in%20the%20physical%20fashion%20store%20on%20consumer%20experience%20-%20Copy.pdf
+Balita, C. (2024, November 11). Philippines: Share of e-commerce traffic by platform 2024. Statista. https://www.statista.com/statistics/1485199/philippines-share-of-e-commerce-traffic-by-platform 
+Breugelmans, E., Altenburg, L., Lehmkuhle, F., Krafft, M., Lamey, L., & Roggeveen, A. L. (2023). The future of physical stores: creating reasons for customers to visit. Journal of Retailing, 99(4), 532–546. https://doi.org/10.1016/j.jretai.2023.10.005
+‌Briedis, H., Kronschnabl, A., Rodriguez, A., & Ungerman, K. (2020). Adapting to the next normal in retail: The customer experience imperative. https://www.mckinsey.com/~/media/McKinsey/Industries/Retail/Our%20Insights/Adapting%20to%20the%20next%20normal%20in%20retail%20The%20customer%20experience%20imperative/Adapting-to-the-next-normal-in-retail-the-customer-experience-imperative-v3.pdf
+‌Bustamante, J. C., & Rubio, N. (2017). Measuring customer experience in physical retail environments. Journal of Service Management, 28(5), 884–913.
+Christensen, C. M. (2014, January 1). Disruptive Innovation. Interaction Design Foundation - IxDF. https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation
+Christensen, C. M., Raynor, M. E., & McDonald, R. (2015, December). What is disruptive innovation? Harvard Business Review. https://hbr.org/2015/12/what-is-disruptive-innovation
+Chun, H., Joo, H. H., Kang, J., & Lee, Y. (2023). E-commerce and local labor markets: Is the “Retail Apocalypse” near? Journal of Urban Economics, 137, 103594. https://doi.org/10.1016/j.jue.2023.103594
+‌Come Make History With Us | Shopee Careers. (2024). Shopee.sg. https://careers.shopee.sg/about
+‌Cordon, M. (2024). Tech in Asia - Connecting Asia’s startup ecosystem. Techinasia.com. https://www.techinasia.com/shopee-surprises-with-first-ever-quarterly-profit
+‌Dean, E. (2024, September 19). History of Shopee: Singapore’s Well-Funded Ecommere Giant (2015-2024). Business2Community. https://www.business2community.com/statistics-pages/history-of-shopee-rapid-growth-and-ecommerce-dominance
+Group, T. (2024, July 4). 10 Largest Online Marketplaces in Southeast Asia (2024). TMO Group. https://www.tmogroup.asia/insights/must-know-southeast-asia-online-marketplaces/
+Hartmans, A. (2021, April 6). Roughly 80,000 stores are doomed to close in the next 5 years as the retail apocalypse continues to rip through America. Business Insider. https://www.businessinsider.com/retail-apocalypse-means-80000-store-closures-next-5-years-2021-4
+Hennessy, P. (2019). Toys R Us Store In Orlando [Photograph]. NurPhoto, Getty Images. https://www.gettyimages.com/detail/news-photo/toys-r-us-store-that-was-shuttered-in-2018-is-seen-on-june-news-photo/1151373510
+Here’s a list of 154 bankruptcies in the retail apocalypse – and why they failed. (2023, April 26). CB Insights Research. https://www.cbinsights.com/research/retail-apocalypse-timeline-infographic/
+Jaafar, S. S. (2020, September 15). Over two-thirds of Malaysians now more comfortable shopping online after Covid-19 — StanChart. The Edge Malaysia. https://theedgemalaysia.com/article/over-twothirds-malaysians-now-more-comfortable-shopping-online-after-covid19-%E2%80%94-stanchart
+Justine Irish, T. D. (2024, September 8). Retail outlook still bright despite high vacancies, inroads by e-commerce. BusinessWorld Online. https://www.bworldonline.com/special-reports/2024/09/09/619438/retail-outlook-still-bright-despite-high-vacancies-inroads-by-e-commerce/ 
+Khaw Jaylene. (2023, January 20). Shopee: How Does E-commerce Affect E-consumer Perception And Satisfaction? ResearchGate; AIBPM Publisher. https://www.researchgate.net/publication/368773335_Shopee_How_Does_E-commerce_Affect_E-consumer_Perception_And_Satisfaction
+Lakritz, T. (2020, January 22). 17 eerie photos of abandoned stores that have shuttered in the retail apocalypse. Business Insider. https://www.businessinsider.com/abandoned-empty-stores-retail-apocalypse-photos
+Legaspi, Z. (2023, December 30). Bir imposes 1 percent withholding tax on online merchants. INQUIRER.net. https://newsinfo.inquirer.net/1881193/bir-1-percent-tax-on-e-marketplaces#ixzz8gA3A2C3w 
+LS Retail. (2024, January 22). Why physical stores are still vital for retail. Lsretail.com; LS Retail. https://www.lsretail.com/resources/why-physical-stores-are-still-vital-for-retail
+Melissamn. (2018). Brooklyn Center MN: An abandoned and closed Sears store sits empty at the former Brookdale Mall site. Sears continues to close stores [Photograph]. Shutterstock. https://i.insider.com/5e2782a13ac0c91c0859a34c?width=700&format=jpeg&auto=webp
+Ministry of Trade of the Republic of Indonesia. (2023). Retail Industry in Indonesia: A Brief Overview. https://ditjenpen.kemendag.go.id/storage/publikasi/5QqkD1tZ9rzn9yPSIBW7RkiyYreg0Gbs6CG2xmyl.pdf
+Mui, D., Mohamad, Zohri, A., & Haryo Gilar Priyambodo. (2023, June 20). Are You Satisfied With Shopee? A Study of Customer Satisfaction Towards Shopee. ResearchGate; AIBPM Publisher. https://www.researchgate.net/publication/371738477_Are_You_Satisfied_With_Shopee_A_Study_of_Customer_Satisfaction_Towards_Shopee
+Ng, G. (2023, August 22). Shopee’s rollercoaster ride: From rapid expansion to adaptive strategies | KrASIA. KrASIA. https://kr-asia.com/shopees-rollercoaster-ride-from-rapid-expansion-to-adaptive-strategies
+Nguyen, M.-N. (2024, September 3). E-commerce platforms in Vietnam - statistics & facts. Statista. https://proxy.parisjc.edu:8293/topics/12689/e-commerce-platforms-in-vietnam/#topicOverview
+‌Nik Hussin, Nik Syuhailah & Abdul Aziz, Zuraimi & Hasan, Md & Hairani, Fazlirda. (2024). UNDERSTANDING THE PERCEPTION OF CUSTOMER EXPERIENCE: A CASE OF SHOPEE. Advanced International Journal of Business, Entrepreneurship and SMEs. 6. 302-311. 10.35631/AIJBES.619022. 
+Nurhayati-Wolff, H. (2024, April 30). Retail trade in Indonesia - statistics & facts. Statista. https://www.statista.com/topics/8000/retail-trade-in-indonesia/#topicOverview
+Peterson, H. (2019, December 23). More than 9,300 stores are closing in 2019 as the retail apocalypse drags on — here’s the full list. Business Insider. https://www.businessinsider.com/stores-closing-in-2019-list-2019-3?r=US&IR=T
+Rodgers, D. (2024) Struggling Retail Stores: Overcoming Common Challenges with Strategic Solutions. https://www.linkedin.com/pulse/struggling-retail-stores-overcoming-common-challenges-rodgers-9ysne
+Sandler, B. J., & Kim, J. J. (2019). Navigating the Retail Apocalypse. New York Law Journal. Retrieved November 28, 2024, from https://www.pszjlaw.com/media/publication/559_NYLJ09252019417218Pachulski.pdf
+Sheridan, N. (2024, June 26). Shopee Marketing Strategy 2024: A Case Study – Latterly.org. Latterly.org. https://www.latterly.org/shopee-marketing-strategy/
+Siddharta, A. (2024, April 19). Retail trade in Malaysia. Statista. https://www.statista.com/topics/12230/retail-trade-in-malaysia/
+Tayao-Juego, A. (2021, September 17). E-commerce for everyone: Digital Transformation with shopee and ShopeePay - project rebound. The Philippine Daily Inquirer Project Rebound. https://projectrebound.inquirer.net/1989/e-commerce-for-everyone-digital-transformation-with-shopee-and-shopeepay/
+Ung, A. (2024, February 8). Navigating the Maze of Online Shopping on Shopee: Lessons Learned from a Wrong Product Delivery. Oeconsulting. https://www.oeconsulting.com.sg/single-post/navigating-the-maze-of-online-shopping-on-shopee-lessons-learned-from-a-wrong-product-delivery [Original source: https://studycrumb.com/alphabetizer]
