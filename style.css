@@ -92,13 +92,18 @@ h4 { font-size: 1.6rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h5 { font-size: 1.4rem; line-height: 1.6;  letter-spacing: 0; }
 h6 { font-size: 1.3rem; line-height: 1.6;  letter-spacing: 0; }
 
-h1, h7 {
+h1 {
   align-items: center;
   justify-content: center;
   color: #EC4C2D;
 }
 
-
+h7 {
+  font-family: Times New Roman, serif; 
+  align-items: center;
+  justify-content: center;
+  color: #EC4C2D;
+}
 
 /**
  * Paragraphs
