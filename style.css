@@ -6,7 +6,6 @@
 html {
   font-size: 62.5%;
 }
-}
 body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
@@ -14,10 +13,6 @@ body {
   font-family: "Montserrat", "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #373737;
 }
-body, #header {
-  font-size: 3.33em;
-  font-family: "Neue Montreal";
-  color: #EC4C2D;
 
 /**
  * Links
@@ -112,9 +107,9 @@ body {
 header, #content, footer { 
   background: rgba(0,0,0,.8); 
   padding:20px;
-  color:#FFFFFF; 
-}
-
+  font-family: "Neue Montreal";
+  color:#EC4C2D; 
+}  
 /* Menu Links */
 ul.main-menu {
   margin: 0;
