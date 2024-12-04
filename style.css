@@ -232,8 +232,8 @@ ul.main-menu li a:hover {
 
 ul.main-menu li a.active {
   color: #fff;
-  border-bottom-color: 3px solid #EC4C2D;
-  border-radius: 10px;
+  border-bottom-color: 3px solid #FFFFFF;
+  border-radius: 15px;
   background-color: #EC4C2D;
   padding: 5px 10px;
   margin-bottom: 5px
