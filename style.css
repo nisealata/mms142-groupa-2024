@@ -200,6 +200,8 @@ html {
 body {
   max-width:800%;
   margin:35px auto;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 header, #content { 
   background: #F8F4EB; 
