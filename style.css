@@ -6,10 +6,6 @@
 html {
   font-size: 62.5%;
 }
-#header {
-  font-size: 3.33em;
-  font-family: "Neue Montreal";
-  color: #EC4C2D;
 }
 body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
@@ -18,6 +14,10 @@ body {
   font-family: "Montserrat", "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #373737;
 }
+body, #header {
+  font-size: 3.33em;
+  font-family: "Neue Montreal";
+  color: #EC4C2D;
 
 /**
  * Links
@@ -36,7 +36,7 @@ small {
 }
 
 #logo {
-  width: 100px;
+  width: 200px;
   height: auto;
 
 /**
