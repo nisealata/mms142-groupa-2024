@@ -6,6 +6,26 @@
 html {
   font-size: 62.5%;
 }
+
+@font-face {
+  font-family: "Montserrat";
+  src: url(font/Montserrat-VariableFont_wght.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Neue Montreal Bold";
+  src: url(font/NeueMontreal-Bold.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Neue Montreal Italic";
+  src: url(font/NeueMontreal-Italic.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
@@ -13,15 +33,6 @@ body {
   font-family: "Montserrat", "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #FFFFFF;
 }
-
-@font-face {
-  font-family: "Montserrat";
-  src: url(font/Montserrat-VariableFont_wght.ttf):
-  font-weight: normal;
-  font-style: normal;
-}
-
-
 
 
 
