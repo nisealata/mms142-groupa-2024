@@ -152,10 +152,10 @@ body {
   margin:25px auto;
 }
 header, #content { 
-  background: rgba(0,0,0,.8); 
+  background: #F8F4EB; 
   padding:25px;
   padding:20px;
-  color:#FFFFFF; 
+  color:#373737; 
 }
 
 /* Menu Links */
