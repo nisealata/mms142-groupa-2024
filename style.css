@@ -34,10 +34,11 @@ small {
 
 
 #HeaderIMG {
-  width: 100px;
+  width: 100%;
   height: auto;
-  justify-content: center;
-  align-items: center;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
 } 
 #logo {
     width: 200px;
