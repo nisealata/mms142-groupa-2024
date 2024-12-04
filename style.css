@@ -208,6 +208,8 @@ header, #content {
   color:#373737;
   box-shadow: 15px 15px 50px rgba(0,0,0,0.5);
   border-radius: 15px;
+  width: 80%;
+  margin: 0 auto;
 }
 
 /* Menu Links */
