@@ -212,7 +212,7 @@ header {
   border-top-right-radius: 30px; 
   width: 80%;
   margin: 0 auto;
-  box-shadow: 0px  5px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px  5px 15px rgba(0, 0, 0, 0.3);
 }
 
 #content { 
@@ -224,7 +224,7 @@ header {
   border-bottom-right-radius: 30px; 
   width: 80%;
   margin: 0 auto;
-  box-shadow: 0px  5px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px  5px 15px rgba(0, 0, 0, 0.3);
 }
 
 /* Menu Links */
