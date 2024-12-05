@@ -6,8 +6,6 @@
 
 html {
   font-size: 62.5%;
-  margin-left: 50px;
-  margin-right: 50px;
 }
 
 @font-face {
@@ -95,6 +93,7 @@ small {
   align-items: center;
 }
 .image-wrapper img {
+  width: 100%;
   max-width: 420px;
   height: auto;
 }
