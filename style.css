@@ -101,6 +101,8 @@ small {
   font-style: italic;
   margin-top: 10px;
   text-align: center;
+  display: block;
+  margin: 0 auto;
 }
 
 
@@ -170,6 +172,7 @@ p {
   margin: 0 auto 1.5em auto; /* bottom margin for paragraphs */
   margin: 0 auto 1.0em auto; /* bottom margin for paragraphs */
   text-indent: 3em;
+  text-align: justify;
 
 }
 p + p {
