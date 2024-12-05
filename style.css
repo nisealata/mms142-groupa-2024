@@ -91,7 +91,7 @@ small {
   align-items: center;
 }
 .image-wrapper img {
-  max-width: 450px;
+  max-width: 420px;
   height: auto;
 }
 .image-wrapper p {
@@ -165,7 +165,8 @@ h2 {
 p {
   margin: 0 auto 1.5em auto; /* bottom margin for paragraphs */
   margin: 0 auto 1.0em auto; /* bottom margin for paragraphs */
-  text-indent: 2em;
+  text-indent: 3em;
+  text-align: justify;
 }
 p + p {
 
