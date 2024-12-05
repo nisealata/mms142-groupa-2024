@@ -97,6 +97,13 @@ small {
   max-width: 420px;
   height: auto;
 }
+.image-wrapper p {
+  font-style: italic;
+  margin-top: 10px;
+  text-align: center;
+  display: inline-block;
+}
+
 
 /**
  * Headings
