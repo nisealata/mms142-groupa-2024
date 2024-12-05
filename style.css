@@ -94,10 +94,12 @@ small {
   align-items: center;
 }
 .image-wrapper img {
-  max-width: 100%;
+  max-width: 200px;
   height: auto;
 }
-
+.image-wrapper p {
+  font-style: italic;
+}
 
 
 
@@ -159,7 +161,7 @@ h2 {
 }
 
 h3 {
-  font-family: "Neue Montreal Medium Italic", sans-serif;
+  font-family: "Montserrat Italic Variable", sans-serif;
   font-stye: italic;
   font-weight: medium;
   
