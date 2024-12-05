@@ -74,12 +74,12 @@ small {
     margin: 0 auto;
   }
 #contributors-img {
-  width: 800px;
+  width: 500px;
   height: auto;
   object-fit: contain;
   display: block;
   margin: 0 auto;
-  margin-top: -15px;
+  margin-top: -30px;
 }
 .image-container {
   display: flex;
