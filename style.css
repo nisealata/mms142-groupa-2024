@@ -255,5 +255,12 @@ ul.main-menu li a.active {
   display:block;
 }
 
+footer {
+  text-align: center;
+  font-size: 1rem; 
+  color: #FFFFFF; /
+  padding: 10px 0;
+  margin-top: 20px; 
+}
 
 
