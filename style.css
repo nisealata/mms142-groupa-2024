@@ -82,8 +82,10 @@ small {
 .image-container {
   display: flex;
   justify-content: center;
+  align-items: center;
   gap: 10px;
   text-align: center;
+  width: 100%;
 }
 .image-wrapper {
   display: flex;
