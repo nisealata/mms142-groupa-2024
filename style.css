@@ -84,7 +84,7 @@ small {
 .image-container {
   display: flex;
   justify-content: center;
-  gap: 20px;
+  gap: 10px;
   text-align: center;
 }
 .image-wrapper {
@@ -99,7 +99,7 @@ small {
 }
 .image-wrapper p {
   font-style: italic;
-  margin-top: 10px;
+  margin-top: 5px;
   text-align: center;
   display: inline-block;
 }
