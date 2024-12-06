@@ -41,9 +41,7 @@ We welcome contributions!
 - Agtoto, Stephen John
 
 ## License
-## License
-This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.  
-You may view and share this project, but any commercial use is strictly prohibited.  
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license. You may view and share this project, but any commercial use is strictly prohibited.  
 
 
 ## Acknowledgments
