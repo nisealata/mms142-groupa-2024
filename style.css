@@ -78,8 +78,8 @@ small {
   object-fit: contain;
   display: block;
   margin: 0 auto;
-  margin-top: -35px;
-  margin-bottom: -25px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 .image-container {
   display: flex;
