@@ -72,7 +72,7 @@ small {
     margin: 0 auto;
   }
 #members-img {
-  width: 100%;
+  width: 150%;
   max-width: 800px;
   height: auto;
   object-fit: contain;
