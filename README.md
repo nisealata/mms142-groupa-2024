@@ -41,7 +41,10 @@ We welcome contributions!
 - Agtoto, Stephen John
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## License
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.  
+You may view and share this project, but any commercial use is strictly prohibited.  
+
 
 ## Acknowledgments
 We sincerely thank our professor for their invaluable guidance and resources, which served as the foundation of this project. We are also grateful to Zirafa on GitHub for providing the open-source template, which played a crucial role in bringing our ideas to life. A special thanks goes to our teammates for their collaboration, creativity, and dedication, as well as to our friends and families for their unwavering support and encouragement throughout this endeavor. This project would not have been possible without the collective effort and inspiration from everyone involved.
