@@ -72,7 +72,7 @@ small {
     margin: 0 auto;
   }
 #contribs-img {
-  width: 150%;
+  width: 100%;
   max-width: 800px;
   height: auto;
   object-fit: contain;
