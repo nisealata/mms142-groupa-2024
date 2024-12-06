@@ -6,14 +6,13 @@ This project explores the disruptive impact of Shopee, a leading e-commerce plat
 
 ## Features
 - **Home Page**: Introduction to the topic with key points on the differences between Shopee and traditional malls.
-- **Interactive Comparison**: Explore specific features of Shopee versus traditional malls (e.g., accessibility, product variety, pricing).
+- **Interactive Comparison**: Explore specific features of Shopee versus traditional malls 
 - **Responsive Design**: Fully optimized for seamless use on desktop and mobile devices.
-- **Visuals & Data**: Infographics and charts showcasing e-commerce versus brick-and-mortar retail statistics and trends.
 
 ## How to Use
 1. Clone or download this repository to your local machine.
-2. Open the `index.html` file in your browser to view the website.
-3. The site will provide an interactive experience comparing the advantages and challenges of Shopee vs. traditional malls.
+2. Open the index.html or style.css file in a text editor like VS Code, Sublime Text, or Notepad++.
+3. Edit the HTML or CSS code to suit your project’s needs.
 
 ## Technologies Used
 - **HTML**: Provides the structural framework for the site.
@@ -27,25 +26,25 @@ We welcome contributions!
 
 ## Authors
 - Abang, Kyla Yumie
-- Alata, Ma. Denise
-- Alcapa, Tajah
-- Alandy, Carlos Emanuelle
-- Alviar, Arvin Christian
-- Alviso, Alexis Jemn
+- Adriano, Josh Andrei
 - Agustin, Alexandra Nicole
 - Agustin, Dorothy Joy
+- Albaño, Diantha Ysabel
+- Alandy, Carlos Emanuelle
+- Alata, Ma. Denise
+- Alcapa, Tajah
+- Alcanar, Krystal
+- Alviar, Arvin Christian
+- Alviso, Alexis Jemn
+- Amonoy, Francis Gabriel
 - Ancheta, Mariana Joaquina
 - Agtoto, Stephen John
-- Amonoy, Francis Gabriel
-- Alcanar, Krystal
-- Adriano, Josh Andrei
-- Albaño, Diantha Ysabel
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-We sincerely thank our professor for their invaluable guidance and resources, which served as the foundation of this project. We are also grateful to the creators of open-source tools that enabled us to bring our ideas to life. A special thanks goes to our teammates for their collaboration, creativity, and dedication, as well as to our friends and families for their unwavering support and encouragement throughout this endeavor. This project would not have been possible without the collective effort and inspiration from everyone involved.
+We sincerely thank our professor for their invaluable guidance and resources, which served as the foundation of this project. We are also grateful to Zirafa on GitHub for providing the open-source template, which played a crucial role in bringing our ideas to life. A special thanks goes to our teammates for their collaboration, creativity, and dedication, as well as to our friends and families for their unwavering support and encouragement throughout this endeavor. This project would not have been possible without the collective effort and inspiration from everyone involved.
 
 
 
