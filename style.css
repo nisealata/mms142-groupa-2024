@@ -71,13 +71,14 @@ small {
     display: block;
     margin: 0 auto;
   }
-#memberss-img {
+#contribs-img {
   width: 250%;
   max-width: 800px;
   height: auto;
   object-fit: contain;
   display: block;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 0;
   margin-bottom: 0;
 }
